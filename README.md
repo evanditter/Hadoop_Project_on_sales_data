@@ -2,6 +2,10 @@
 
 This was an introductory project to Hadoop using dummy sales data. The following readme would show how to use the scripts to create a database in HDFS using Cloudera Manager. The script won't work by itself as there is a dummy wget to an Amazon S3 bucket that needs a valid address, but was kept out for privacy.
 
+What does it do/What is in the repo? Scripts to get HDFS running on Cloudera Manager and SQL statements to create a database with tables, partitions, and views. 
+What technologies are used? Learning Hadoop was the main goal of the project. Python, bash scripts and sql was used.
+What is the stage of the project? The project is done for the goal of having working code for the purpose of learning Hadoop.
+
 ## Contents
 
 - The Deployment Runbook section contains information that shows how the code should be run on the production environment.
